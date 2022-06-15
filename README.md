@@ -4,7 +4,7 @@ and see performance metrics from the client perspective.
 
 ## Contents ##
 
-1. **Download binaries** _or_ build from source
+1. Download binaries _or_ build from source
     1. [Download binaries](docs/download.md)
        
        or
